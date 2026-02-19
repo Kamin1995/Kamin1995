@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Kamin 👋
 
-<!--
-**Kamin1995/Kamin1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Technology Engineering Student at VIA University College  
+💻 Backend & Distributed Systems Enthusiast  
+📍 Odense, Denmark  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a software engineering student passionate about building structured, scalable systems.  
+I enjoy working with client–server architectures, distributed systems, and applying design patterns in real-world projects.
+
+Currently focused on:
+- Backend development
+- Distributed systems (REST & gRPC)
+- Clean architecture & design principles
+- Database-driven applications
+
+---
+
+## 🛠 Technical Skills
+
+### Languages
+- Java
+- C#
+- SQL
+- JavaScript
+
+### Frameworks & Tools
+- .NET / Blazor
+- JavaFX
+- Entity Framework Core
+- PostgreSQL
+- Git & GitHub
+
+### Architecture & Concepts
+- OOP
+- MVVM
+- Client–Server Architecture
+- REST APIs
+- gRPC
+- Design Patterns (Observer, State, Singleton, Adapter, Proxy)
+
+---
+
+## 📂 Featured Projects
+
+- **VIAClinic** – Client–Server healthcare management system  
+- **Library Management System** – Distributed multi-layer system (Java + .NET + Blazor)  
+- **.Net Assignments** – Structured .NET coursework and implementations  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/kamin-rahmany
+- Email: rahmanykamin@gmail.com
