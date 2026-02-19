@@ -2,7 +2,6 @@
 
 🎓 Software Technology Engineering Student at VIA University College  
 💻 Backend & Distributed Systems Enthusiast  
-📍 Odense, Denmark  
 
 ---
 
@@ -24,21 +23,20 @@ Currently focused on:
 ### Languages
 - Java
 - C#
-- SQL
+- Python
 - JavaScript
 
 ### Frameworks & Tools
-- .NET / Blazor
-- JavaFX
+- Blazor
 - Entity Framework Core
-- PostgreSQL
-- Git & GitHub
+- Spring Boot
 
 ### Architecture & Concepts
 - OOP
 - MVVM
+- Distributed Systems
 - Client–Server Architecture
-- REST APIs
+- REST API
 - gRPC
 - Design Patterns (Observer, State, Singleton, Adapter, Proxy)
 
@@ -46,13 +44,21 @@ Currently focused on:
 
 ## 📂 Featured Projects
 
-- **VIAClinic** – Client–Server healthcare management system  
-- **Library Management System** – Distributed multi-layer system (Java + .NET + Blazor)  
-- **.Net Assignments** – Structured .NET coursework and implementations  
+- **Library Management System** – Distributed multi-layer system (Java + .NET + Blazor)
+  Using Java, .NET, Blazor, EF Core, and SQLite, following Scrum and UP.
+  👉 https://github.com/Kamin1995/LibraryManagementSystem
+  
+- **VIAClinic** – Client–Server healthcare management system
+  Built using Java, PostgreSQL, following Scrum and UP.
+  👉 https://github.com/Kamin1995/VIAClinic
+  
+- **Reddit-Like-App** – Structured .NET coursework and implementations
+  Built using C# /.NET, Blazor, REST, EF Core 
+  👉 https://github.com/Kamin1995/Reddit-Like-App
 
 ---
 
-## 📫 Connect With Me
+## 📫 Conntact me via
 
-- LinkedIn: https://www.linkedin.com/in/kamin-rahmany
 - Email: rahmanykamin@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kamin-rahmany
