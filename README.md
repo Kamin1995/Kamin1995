@@ -56,6 +56,35 @@ Currently focused on:
   Structured .NET coursework using C#, Blazor, REST and EF Core.  
   👉 [GitHub Repository](https://github.com/Kamin1995/Reddit-Like-App)
 
+  ---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kamin1995&show_icons=true&hide_title=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamin1995&layout=compact"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Kamin1995"
+    height="165"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Graph (animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kamin1995/Kamin1995/output/snake.svg" alt="snake animation" />
+</p>
+
 
 
 ---
