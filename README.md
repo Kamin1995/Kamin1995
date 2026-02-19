@@ -44,17 +44,15 @@ Currently focused on:
 
 ## 📂 Featured Projects
 
-- **Library Management System** – Distributed multi-layer system (Java + .NET + Blazor).
-  Using Java, .NET, Blazor, EF Core, and SQLite, following Scrum and UP.
+- **Library Management System** – Distributed multi-layer system (Java + .NET + Blazor). Using Java, .NET, Blazor, EF Core, and SQLite, following Scrum and UP.  
   👉 https://github.com/Kamin1995/LibraryManagementSystem
-  
-- **VIAClinic** – Client–Server healthcare management system.
-  Built using Java, PostgreSQL, following Scrum and UP.
+
+- **VIAClinic** – Client–Server healthcare management system. Built using Java, PostgreSQL, following Scrum and UP.  
   👉 https://github.com/Kamin1995/VIAClinic
-  
-- **Reddit-Like-App** – Structured .NET coursework and implementations.
-  Built using C# /.NET, Blazor, REST, EF Core.
+
+- **Reddit-Like-App** – Structured .NET coursework and implementations. Built using C# /.NET, Blazor, REST, EF Core.  
   👉 https://github.com/Kamin1995/Reddit-Like-App
+
 
 ---
 
