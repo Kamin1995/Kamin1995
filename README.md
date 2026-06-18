@@ -8,9 +8,10 @@
 ## 🚀 About Me
 
 I am a software engineering student passionate about building structured, scalable systems.  
-I enjoy working with client–server architectures, distributed systems, and applying design patterns in real-world projects.
+I enjoy working with distributed systems, IoT, backend development, and applying machine learning and data analysis in practical projects.
 
 Currently focused on:
+- Data science and machine learning
 - Backend development
 - Distributed systems (REST & gRPC)
 - Clean architecture & design principles
@@ -24,12 +25,17 @@ Currently focused on:
 - Java
 - C#
 - Python
+- C
 - JavaScript
 
 ### Frameworks & Tools
 - Blazor
 - Entity Framework Core
 - Spring Boot
+- React
+- Git & GitHub
+- Docker
+- CI/CD
 
 ### Architecture & Concepts
 - OOP
@@ -38,12 +44,17 @@ Currently focused on:
 - Client–Server Architecture
 - REST API
 - gRPC
+- MQTT
 - Design Patterns (Observer, State, Singleton, Adapter, Proxy)
 
 ---
 
 ## 📂 Featured Projects
 
+- **Urban Micro Farm IoT Team**  
+  Distributed IoT farming system (C + MQTT/Mosquitto).  
+  👉 [GitHub Repository](https://github.com/Kamin1995/VIA_Urban_MicroFarm_IoT_Team)
+  
 - **Library Management System**  
   Distributed multi-layer system (Java + .NET + Blazor).  
   👉 [GitHub Repository](https://github.com/Kamin1995/LibraryManagementSystem)
@@ -58,7 +69,7 @@ Currently focused on:
 
 ---
 
-## 📫 Conntact me via
+## 📫 Contact me via
 
 - Email: rahmanykamin@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kamin-rahmany
